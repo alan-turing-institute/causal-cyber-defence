@@ -11,6 +11,8 @@ In this paper we explore cyber security defence, through the unification of a no
     <img width="100%" src="figures/Results.png">
 </p>
 
+<embed src="ICML_ML4Cyber_Poster.pdf" type="application/pdf"/>
+
 ## Installation
 
 Use conda to create the environment from the `environment.yml` file:
