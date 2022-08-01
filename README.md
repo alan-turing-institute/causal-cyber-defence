@@ -8,7 +8,7 @@ In this paper we explore cyber security defence, through the unification of a no
 
 <p align="center" width="100%">
     <img width="60%" src="figures/DAG.png">
-    <img width="60%" src="figures/Results.png">
+    <img width="100%" src="figures/Results.png">
 </p>
 
 ## Installation
