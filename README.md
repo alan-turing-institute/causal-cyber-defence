@@ -1,6 +1,6 @@
 # Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation
 
-This repository holds code for getting the experiment running as defined in the paper [Developing Optimal Causal Cyber-Defence Agents via Cyber-Security Simulation](https://www.researchgate.net/publication/362252214_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation)
+This repository holds code for reproducing the results from the experimental section of the paper [Developing Optimal Causal Cyber-Defence Agents via Cyber-Security Simulation](https://www.researchgate.net/publication/362252214_Developing_Optimal_Causal_Cyber-Defence_Agents_via_Cyber_Security_Simulation).
 
 ## Abstract
 
@@ -25,7 +25,7 @@ git clone https://github.com/neildhir/DCBO.git
 git clone https://github.com/dstl/YAWNING-TITAN.git
 cd causal-cyber-defence
 ```
-Run through the `Example.ipynb` notebook!
+Run through the [Example.ipynb](Example.ipynb) notebook!
 
 ## Citation
 
@@ -35,7 +35,6 @@ Please cite the ML4Cyber Workshop paper if you reference this work:
  author = {Andrew, Alex and Spillard, Sam and Collyer, Joshua and Dhir, Neil},
  year = {2022},
  month = {07},
- pages = {},
  title = {Developing Optimal Causal Cyber-Defence Agents via Cyber Security Simulation},
  maintitle = {International Confernece on Machine Learning (ICML)},
  booktitle = {Workshop on Machine Learning for Cybersecurity (ML4Cyber)}
